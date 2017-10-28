@@ -1,6 +1,6 @@
 [angular-visible] - Check if DOM elements are out of window.
 =========================================
-DOM 엘리먼트가 현재 화면에 시각적으로 보이는지를 확인하는 angularjs의 directive
+The angularjs directive to ensure that DOM elements are visually visible on the current screen
 
 ## How to install?
 To install angular-visible as a front-end dependency using Bower, simply execute the following command in your project’s folder:
